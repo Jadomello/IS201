@@ -1,0 +1,23 @@
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  color: purple;
+}
+
+h1, h2, h3 {
+  color: #008080; /* Dark teal color for headings */
+
+.header {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.writing {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.video {
+  padding: 10px;
+  margin-bottom: 20px;
+}
